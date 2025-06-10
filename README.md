@@ -25,4 +25,4 @@ This repository showcases well-annotated implementations of fundamental algorith
 
 ## 🔖 License
 
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](./LICENSE).
